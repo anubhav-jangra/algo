@@ -12,4 +12,9 @@ A collection of all the algos in my arsenal....;)
 ### day - 3 (23/05/2018)
 * merge sort
 
-day
+### day - 4 (24/05/2018)
+* asymptotic notations
+
+### day - 5 (25/05/2018)
+* NOTHING {Slacking of with my violin and piano......Ahh that's the dream!!!}
+
