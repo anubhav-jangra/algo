@@ -18,3 +18,8 @@ A collection of all the algos in my arsenal....;)
 ### day - 5 (25/05/2018)
 * NOTHING {Slacking of with my violin and piano......Ahh that's the dream!!!}
 
+#### Watched the entire Harry Potter series in these days and also read the entire one-punch-man manga after the entire series(again....)
+
+### day - 6 (29/05/2018)
+* linear search (--just to get back on the track--)
+* binary search (--ditto--)
