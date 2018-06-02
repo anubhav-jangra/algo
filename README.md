@@ -23,3 +23,6 @@ A collection of all the algos in my arsenal....;)
 ### day - 6 (29/05/2018)
 * linear search (--just to get back on the track--)
 * binary search (--ditto--)
+
+### day - _ (30/05/2018 - )
+* doing some practice on hackerrank..
