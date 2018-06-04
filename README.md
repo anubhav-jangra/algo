@@ -26,3 +26,6 @@ A collection of all the algos in my arsenal....;)
 
 ### day - _ (30/05/2018 - )
 * doing some practice on hackerrank..
+
+### day - 7 (03/06/2018)
+* quick sort
