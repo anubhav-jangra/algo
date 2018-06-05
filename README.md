@@ -29,3 +29,7 @@ A collection of all the algos in my arsenal....;)
 
 ### day - 7 (03/06/2018)
 * quick sort
+
+### day - 8 (05/06/2018)
+* did some practice on sorting and trees
+* learnt counting sort
