@@ -33,3 +33,6 @@ A collection of all the algos in my arsenal....;)
 ### day - 8 (05/06/2018)
 * did some practice on sorting and trees
 * learnt counting sort
+
+### day -9 (08/06/2019)
+* median_of_medians approach to find median of unsorted array in O(n)
