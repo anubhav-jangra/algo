@@ -34,5 +34,8 @@ A collection of all the algos in my arsenal....;)
 * did some practice on sorting and trees
 * learnt counting sort
 
-### day -9 (08/06/2019)
+### day - 9 (08/06/2019)
 * median_of_medians approach to find median of unsorted array in O(n)
+
+### day - 10 (12/06/2018)
+* huffman coding complete implementaion
