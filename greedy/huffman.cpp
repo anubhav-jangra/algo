@@ -173,9 +173,12 @@ class Huffman {
 
 int main()
 {
+    string str;
+    cout<<"Gimme a string : ";
+    getline(cin, str);
     //string str = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbccccccccccccddddddddddddddddeeeeeeeeefffff";
     //string str = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbccccccccccccccccccccdddddeeeff";
-    string str = "A quick brown fox jumped over a lazy old dog.";
+    //string str = "A quick brown fox jumped over a lazy old dog.";
     Huffman huff(str);
     cout<<"Huffman tree is -> \n";
     huff.print();
