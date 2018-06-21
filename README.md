@@ -44,3 +44,6 @@ A collection of all the algos in my arsenal....;)
 
 ### day - 11 (13/06/2018)
 * started graphs
+
+### day - 12 (20/06/2018)
+* made a program for sieve algorithm to determine prime numbers
