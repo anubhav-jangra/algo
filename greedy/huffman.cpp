@@ -69,7 +69,6 @@ class Huffman {
         item *huff_stuff() {
             int total_char = heap_size;
             for(int i = 1; i < total_char; i++) {
-                this->print_as_array();
                 cout<<endl;
                 item z;
                 z.charr      = 63;
@@ -173,12 +172,12 @@ class Huffman {
 
 int main()
 {
-    string str;
-    cout<<"Gimme a string : ";
-    getline(cin, str);
+    //string str;
+    //cout<<"Gimme a string : ";
+    //getline(cin, str);
     //string str = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbccccccccccccddddddddddddddddeeeeeeeeefffff";
     //string str = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbccccccccccccccccccccdddddeeeff";
-    //string str = "A quick brown fox jumped over a lazy old dog.";
+    string str = "A quick brown fox jumped over a lazy old dog.";
     Huffman huff(str);
     cout<<"Huffman tree is -> \n";
     huff.print();
